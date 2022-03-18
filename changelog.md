@@ -1,5 +1,5 @@
 ### WaterBucket v1.4 (MC 1.18+)
-* Slimes now drop between 2 and 4 slime balls when killed
+* Slimes now drop between 2 and 4 slime balls when killed (OLD 0-1 ---> NEW 2-4)
 * Confirmed that WaterBucket works on Minecraft 1.18+
 
 ### WaterBucket v1.3 (MC 1.14.4+)

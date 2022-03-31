@@ -8,6 +8,8 @@
 * Grass Path blocks can now be mined with Silk Touch.
 * Infested Blocks can now be mined with Silk Touch.
 * Infested Blocks now always drop Gravel when broken without Silk Touch (including by Silverfish).
+* Bookshelves now drop 3 books. 
+* Sweet Berry Bushes now drop between 4 and 8 berries.
 
 ## Mobs
 

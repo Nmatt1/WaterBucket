@@ -1,3 +1,8 @@
+### Waterbucket v1.5 (MC 1.18+)
+* Bookshelves now return all of their books when broken
+* Sweet Berry Bushes drop rate change (OLD 2-3 ---> NEW 4-8
+
+
 ### WaterBucket v1.4 (MC 1.18+)
 * Slimes now drop between 2 and 4 slime balls when killed (OLD 0-1 ---> NEW 2-4)
 * Confirmed that WaterBucket works on Minecraft 1.18+

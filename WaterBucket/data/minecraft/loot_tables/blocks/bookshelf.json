@@ -34,7 +34,7 @@
                   "function": "minecraft:set_count",
                   "count": {
                     "min": 3.0,
-                    "max": 7.0,
+                    "max": 3.0,
                     "add":false
                   }
                   

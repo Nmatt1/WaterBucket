@@ -5,7 +5,7 @@ WaterBucket Data Pack for Minecraft Java Edition
 
 ### About
 
-WaterBucket is a survival rebalance and quality-of-life data pack for Minecraft Java Edition. It can be added or removed to worlds without breaking anything. Changes are primarily to loot tables and recipes. WaterBucket adds no new blocks, textures, sounds, or entities. Refer to [features.md](https://github.com/Valafar123/WaterBucket/blob/master/features.md) for list of features, and [changelog.md](https://github.com/Valafar123/WaterBucket/blob/master/changelog.md) for list of changes from previous versions.
+WaterBucket is a survival rebalance and quality-of-life data pack for Minecraft Java Edition. It can be added or removed to worlds without breaking anything. Changes are primarily to loot tables and recipes. WaterBucket adds no new blocks, textures, sounds, or entities. Refer to [features.md](https://github.com/Nmatt1/WaterBucket/blob/master/features.md) for list of features, and [changelog.md](https://github.com/Nmatt1/WaterBucket/blob/master/changelog.md) for list of changes from previous versions.
 
 
 ### Install Instructions
